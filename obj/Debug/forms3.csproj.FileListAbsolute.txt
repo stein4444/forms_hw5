@@ -1,0 +1,10 @@
+E:\c# 2semestr\forms3\bin\Debug\forms3.exe.config
+E:\c# 2semestr\forms3\bin\Debug\forms3.exe
+E:\c# 2semestr\forms3\bin\Debug\forms3.pdb
+E:\c# 2semestr\forms3\obj\Debug\forms3.csprojAssemblyReference.cache
+E:\c# 2semestr\forms3\obj\Debug\forms3.Form1.resources
+E:\c# 2semestr\forms3\obj\Debug\forms3.Properties.Resources.resources
+E:\c# 2semestr\forms3\obj\Debug\forms3.csproj.GenerateResource.cache
+E:\c# 2semestr\forms3\obj\Debug\forms3.csproj.CoreCompileInputs.cache
+E:\c# 2semestr\forms3\obj\Debug\forms3.exe
+E:\c# 2semestr\forms3\obj\Debug\forms3.pdb
